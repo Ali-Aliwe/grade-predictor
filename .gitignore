@@ -1,0 +1,26 @@
+Data
+grade_prediction_Ali.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+mlops_env/
+venv/
+.env
+
+# Node
+node_modules/
+build/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+.pytest_cache/
