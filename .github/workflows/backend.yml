@@ -28,7 +28,7 @@ jobs:
           pip install pytest httpx
 
       - name: Run all tests
-        run: pytest backend/tests/ -v
+        run: pytest tests/ -v
 
   build-and-push:
     runs-on: ubuntu-latest
